@@ -1,0 +1,10 @@
+1- We go to Node.js site: (https://nodejs.org/en/) we download node.js and install it
+2- Create a new project in VS code
+3- open termainal in vs code
+4- write npm init -y interminal
+5- we install inquirer from (https://www.npmjs.com/package/inquirer)
+6- we install inquirer by runing the flollowing command: npm install inquirer
+7- we write our node.js functions to create terminal for generating readme file
+8- we node.js fs library to create and write to files
+9- in terminal run the following command: npm start
+
